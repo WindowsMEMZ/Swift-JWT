@@ -43,7 +43,7 @@ let package = Package(
             "KituraContracts",
             "CryptorRSA",
             "Cryptor",
-            "CryptorECC",
+            "BlueECC",
         ]),
         .testTarget(name: "SwiftJWTTests", dependencies: ["SwiftJWT"])
 	]
