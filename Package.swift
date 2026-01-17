@@ -1,4 +1,4 @@
-// swift-tools-version:5.2
+// swift-tools-version:5.5
 
 /**
  * Copyright IBM Corporation and the Kitura project authors 2018-2020
